@@ -23,6 +23,5 @@ public class QuestionOne {
         // stringBuilderTwo referring to the same object the change will reflect on both
         // object. But in case of 'String' we can't do that any change on String will result
         // to a new object
-
     }
 }
